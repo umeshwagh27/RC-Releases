@@ -1,7 +1,11 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1.1",
-  "apkUrl": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.1.1/app-release.apk",
+  "versionCode": 5,
+  "versionName": "2.1.2",
+  "apkUrl": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.1.2/app-release.apk",
   "forceUpdate": true,
-  "releaseNotes": "Initial release"
+  "releaseNotes": "RC Info v2.1.2 — Release Notes
+- Restored emojis, section headings, and the footer in WhatsApp shares.
+- Shared vehicle records now include only the fields displayed for the selected search type.
+- Password validation messages now appear below the relevant fields in black.
+- Improved Profit Report dropdown alignment and filter sizing on mobile screens."
 }
