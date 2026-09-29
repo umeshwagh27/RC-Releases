@@ -1,7 +1,12 @@
 {
-  "versionCode": 6,
-  "versionName": "2.2.0",
-  "apkUrl": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.2.0/app-release.apk",
+  "versionCode": 7,
+  "versionName": "2.2.1",
+  "apkUrl": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.2.1/app-release.apk",
+  "apkUrls": {
+    "arm64-v8a": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.2.1/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.2.1/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/umeshwagh27/RC-Releases/releases/download/2.2.1/app-x86_64-release.apk"
+  },
   "forceUpdate": true,
-  "releaseNotes": "RC Info v2.2.0"
+  "releaseNotes": "RC Info v2.2.1"."
 }
